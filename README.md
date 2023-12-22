@@ -71,9 +71,9 @@
 
 
 ## Landing Page After Login
-![3](https://github.com/ujjawal23/XenonStack/assets/78785865/7b61a1b6-3efd-41f2-b4fd-a12036532a93)
+![3](https://github.com/saindhyan/coerEcomm/assets/87525527/c606b8d8-9a8f-4bb3-9604-762852d36352)
 ## Checkout page
-![4](https://github.com/ujjawal23/XenonStack/assets/78785865/e447a7d4-4529-4db3-a05b-be974d798b5a)
+![4](https://github.com/saindhyan/coerEcomm/assets/87525527/ed8369f8-1f8e-4d33-ace8-a4c7ac317039)
 
 
 ## Profile Page
