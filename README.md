@@ -36,13 +36,6 @@
 |![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) |JavaScript |
 |![#00](https://via.placeholder.com/10/00b48a?text=+)  |PHP |
 
-## ScreenShots Of the Project
-## Login Credentials While Entering the Website
-
-- Email : guptapraful130@gmail.com
-- Password : Praful@12345
-- Url of Project : https://xenonstack11.000webhostapp.com
-
 
 ## Documentation
 
