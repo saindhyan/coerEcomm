@@ -1,8 +1,14 @@
 # coerEcomm
 ## Login Credentials While Entering the Website
 
-- demo Email : piyush@gmail.com
--  demo Password : piyushsaini
+- demo Email :
+```
+   piyush@gmail.com
+```
+-  demo Password :
+```
+   piyushsaini
+```
 - Url of Project : https://coerecomm.000webhostapp.com
 
 
