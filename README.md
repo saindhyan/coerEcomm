@@ -65,19 +65,23 @@
 ## ScreenShots Of the Project
 
 ## Login Page
-![1](https://github.com/ujjawal23/XenonStack/assets/78785865/c4e0841c-e5b4-4d85-93e8-6c705eccee68)
+![1](https://github.com/saindhyan/coerEcomm/assets/87525527/6fd97306-68bf-4fe6-a757-16b9a31d3135)
 ## Sign-up Page
-![2](https://github.com/ujjawal23/XenonStack/assets/78785865/46820a0c-0579-4ee5-9d0a-fd049c1b4ad8)
+![2](https://github.com/saindhyan/coerEcomm/assets/87525527/8e274acc-fb00-47b4-9440-66bb8087f05d)
+
+
 ## Landing Page After Login
 ![3](https://github.com/ujjawal23/XenonStack/assets/78785865/7b61a1b6-3efd-41f2-b4fd-a12036532a93)
 ## Checkout page
 ![4](https://github.com/ujjawal23/XenonStack/assets/78785865/e447a7d4-4529-4db3-a05b-be974d798b5a)
+
+
 ## Profile Page
-![5](https://github.com/ujjawal23/XenonStack/assets/78785865/f7ce0238-4bfc-407a-a42e-90968da7c1ca)
+![5](https://github.com/saindhyan/coerEcomm/assets/87525527/152775a0-31f5-401d-803a-22efc8e89f87)
 ## About us Page
-![6](https://github.com/ujjawal23/XenonStack/assets/78785865/ecb00d67-7f53-4d17-a707-adcf0c8ec054)
+![6](https://github.com/saindhyan/coerEcomm/assets/87525527/a0ffd4a1-a5c6-440d-8c9a-5da0d05b8611)
 ## Contact US
-![7](https://github.com/ujjawal23/XenonStack/assets/78785865/25c149b8-8eae-4808-94bf-cfdd9d252bc2)
+![7](https://github.com/saindhyan/coerEcomm/assets/87525527/050c305f-d68a-4f85-b1ce-359ad341aa1a)
 ## Database 
 ![8](https://github.com/ujjawal23/XenonStack/assets/78785865/fb09c1bc-a52f-41da-b23d-92310caf019c)
 ![9](https://github.com/ujjawal23/XenonStack/assets/78785865/10ac4042-9770-4324-adc7-fec0b7c20eba)
